@@ -1,0 +1,132 @@
+.
+├── app
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+├── assets
+│   ├── android.jpg
+│   ├── css
+│   │   ├── style.css
+│   │   └── style-redesign.css
+│   └── js
+│       ├── index.js
+│       └── resindex0.js
+├── components
+│   ├── cta-section.tsx
+│   ├── footer.tsx
+│   ├── header.tsx
+│   ├── hero.tsx
+│   ├── main-image.tsx
+│   ├── ombrelones-section.tsx
+│   ├── tendas-section.tsx
+│   ├── theme-provider.tsx
+│   ├── ui
+│   │   ├── accordion.tsx
+│   │   ├── alert-dialog.tsx
+│   │   ├── alert.tsx
+│   │   ├── aspect-ratio.tsx
+│   │   ├── avatar.tsx
+│   │   ├── badge.tsx
+│   │   ├── breadcrumb.tsx
+│   │   ├── button-group.tsx
+│   │   ├── button.tsx
+│   │   ├── calendar.tsx
+│   │   ├── card.tsx
+│   │   ├── carousel.tsx
+│   │   ├── chart.tsx
+│   │   ├── checkbox.tsx
+│   │   ├── collapsible.tsx
+│   │   ├── command.tsx
+│   │   ├── context-menu.tsx
+│   │   ├── dialog.tsx
+│   │   ├── drawer.tsx
+│   │   ├── dropdown-menu.tsx
+│   │   ├── empty.tsx
+│   │   ├── field.tsx
+│   │   ├── form.tsx
+│   │   ├── hover-card.tsx
+│   │   ├── input-group.tsx
+│   │   ├── input-otp.tsx
+│   │   ├── input.tsx
+│   │   ├── item.tsx
+│   │   ├── kbd.tsx
+│   │   ├── label.tsx
+│   │   ├── menubar.tsx
+│   │   ├── navigation-menu.tsx
+│   │   ├── pagination.tsx
+│   │   ├── popover.tsx
+│   │   ├── progress.tsx
+│   │   ├── radio-group.tsx
+│   │   ├── resizable.tsx
+│   │   ├── scroll-area.tsx
+│   │   ├── select.tsx
+│   │   ├── separator.tsx
+│   │   ├── sheet.tsx
+│   │   ├── sidebar.tsx
+│   │   ├── skeleton.tsx
+│   │   ├── slider.tsx
+│   │   ├── sonner.tsx
+│   │   ├── spinner.tsx
+│   │   ├── switch.tsx
+│   │   ├── table.tsx
+│   │   ├── tabs.tsx
+│   │   ├── textarea.tsx
+│   │   ├── toaster.tsx
+│   │   ├── toast.tsx
+│   │   ├── toggle-group.tsx
+│   │   ├── toggle.tsx
+│   │   ├── tooltip.tsx
+│   │   ├── use-mobile.tsx
+│   │   └── use-toast.ts
+│   └── whatsapp-float.tsx
+├── components.json
+├── hooks
+│   ├── use-mobile.ts
+│   └── use-toast.ts
+├── index-redesign.html
+├── lib
+│   └── utils.ts
+├── next.config.mjs
+├── next-env.d.ts
+├── package.json
+├── pnpm-lock.yaml
+├── postcss.config.mjs
+├── public
+│   ├── apple-icon.png
+│   ├── assets
+│   │   └── images
+│   │       ├── android.png
+│   │       ├── backgrounds
+│   │       │   ├── banner.jpg
+│   │       │   ├── desktop.jpg
+│   │       │   ├── desktop.png
+│   │       │   ├── mobile.jpg
+│   │       │   └── mobile.png
+│   │       ├── card1.jpg
+│   │       ├── card2.jpg
+│   │       ├── card3.jpg
+│   │       ├── favicon.png
+│   │       ├── icons
+│   │       │   ├── battery_boat.svg
+│   │       │   ├── battery_motorcycle.svg
+│   │       │   ├── battery_type_light.svg
+│   │       │   ├── battery_type_weight.svg
+│   │       │   ├── popup.svg
+│   │       │   ├── telephone.svg
+│   │       │   └── whatsapp.svg
+│   │       └── logo.png
+│   ├── icon-dark-32x32.png
+│   ├── icon-light-32x32.png
+│   ├── icon.svg
+│   ├── placeholder.jpg
+│   ├── placeholder-logo.png
+│   ├── placeholder-logo.svg
+│   ├── placeholder.svg
+│   └── placeholder-user.jpg
+├── styles
+│   └── globals.css
+├── tree.txt
+├── tsconfig.json
+└── vercel.json
+
+15 directories, 115 files

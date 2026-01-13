@@ -1,0 +1,7 @@
+.vercel
+node_modules/
+.pnpm/
+node_modules/
+.pnpm/
+.vercel/
+.next/
